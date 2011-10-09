@@ -1,0 +1,6 @@
+Syntax highlighting for TikZ environments while using AUCTeX
+
+This supplemental parser grew out of an answer to a question on tex.sx:
+http://tex.stackexchange.com/questions/19856/auctex-extension-for-tikz/30252#30252
+
+Currently syntax support is limited but slowly growing.
